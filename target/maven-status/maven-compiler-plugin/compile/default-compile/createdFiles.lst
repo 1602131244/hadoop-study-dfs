@@ -1,0 +1,11 @@
+com\ibeifeng\hadoop\mapreduce\WordCountMapReduce$WordCountReducer.class
+com\ibeifeng\hadoop\hdfs\App.class
+com\ibeifeng\hadoop\mapreduce\WordCountMapReduce$WordCountMapper.class
+com\ibeifeng\hadoop\rpc\IHello.class
+com\ibeifeng\hadoop\hdfs\PutMerge.class
+com\ibeifeng\hadoop\rpc\RpcServer.class
+com\ibeifeng\hadoop\hdfs\HdfsUtils.class
+com\ibeifeng\hadoop\mapreduce\WordCountMapReduce.class
+com\ibeifeng\hadoop\hdfs\HdfsFsTest.class
+com\ibeifeng\hadoop\hdfs\HdfsUrlTest.class
+com\ibeifeng\hadoop\rpc\RpcClient.class
